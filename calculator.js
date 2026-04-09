@@ -6,4 +6,4 @@ function getUser(user) {
   return user.name;  // Bug: no null check!
 }
 
-console.log(divide(10, 0));
+console.log(divide(20, 0));
