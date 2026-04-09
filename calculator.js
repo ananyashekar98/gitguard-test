@@ -7,3 +7,4 @@ function getUser(user) {
 }
 
 console.log(divide(20, 0));
+// testing groq review
