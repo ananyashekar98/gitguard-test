@@ -1,3 +1,4 @@
+// triggering AI review
 function calculateSalary(hours, rate) {
   return hours / rate  // Bug: should multiply not divide!
 }
