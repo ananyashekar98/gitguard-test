@@ -6,3 +6,4 @@ function calculateSalary(hours, rate) {
 function getUserEmail(user) {
   return user.email.toLowerCase()  // Bug: no null check!
 }
+// trigger
